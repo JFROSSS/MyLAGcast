@@ -1,0 +1,25 @@
+body {
+    background-image: url("https://media.discordapp.net/attachments/696152014647722069/700190177867333662/20200416_004534.jpg?width=759&height=427");
+     font-family: Arial;
+     background-size: auto 100vh;
+     height: 100vh;
+   }
+   
+   .menu ul {
+     display: flex;
+     justify-content: space-around
+   }
+   
+   .menu li {
+     list-style: none;
+   }
+   
+   a {
+     color: #d3d3d3;
+     text-decoration: none;
+     font-size: 20px
+   }
+   
+   a:hover {
+     text-decoration: underline;
+   }
